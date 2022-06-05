@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DevSecOps**
 
-- 👯 I’m looking to collaborate on **Anything related to devsecops, offensive security, security automation.**
+- 👯 I’m looking to collaborate on **Anything related to devsecops and security automation.**
 
 - 📫 How to reach me **karim.habush@gmail.com**
 
