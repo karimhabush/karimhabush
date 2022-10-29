@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karim Habouch</h1>
 <h3 align="center">A passionate Cybersecurity Engineer</h3>
 
-- 🔭 I’m currently working on **DevSecOps**
+- 🔭 I’m currently working on **Security administration and operations**
 
 - 👯 I’m looking to collaborate on **Anything related to devsecops and security automation.**
 
