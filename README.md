@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **security administration and operations**
 
-- 👯 I’m looking to collaborate on **anything related to devsecops and security automation.**
+- 👯 I’m looking to collaborate on **anything related to security automation.**
 
 
 ## Connect with me  
